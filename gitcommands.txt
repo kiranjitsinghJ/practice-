@@ -1,0 +1,15 @@
+git //in cmd this should list all git commands in list form
+dir //list directories
+cd Desktop //changes directory to desktop
+git init //initialise empty git reposirty
+git status //shows status
+touch test.txt //create empty test txt file
+git add test.txt //groups things and ready to commit
+make an empty text file and save in practice folder
+git add . //all changes added
+git commit -m "created file" //saving wth comment
+git log //tracks all commits
+touch namefle.txt // creates txt in current directory
+git remote add origin git@github.com:kiranjitsinghJ/practice-.git
+git push -u origin master
+clear //clear sreen
